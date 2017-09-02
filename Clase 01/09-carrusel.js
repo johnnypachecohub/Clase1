@@ -25,3 +25,7 @@ boton.addEventListener("click", function() {
 })
 
 asignar()
+
+setInterval(function() {
+	mover()
+}, 1000)
