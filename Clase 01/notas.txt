@@ -5,6 +5,11 @@ github.com/Area51TrainingCenter/FullStackDeveloper_Group02
 
 no es necesario utilizar el punto y coma
 
+Consideraciones para subir a GitHub:
+Crear un repositorio en Github
+Copiar el link del repositorio creado
+Clonarlo en VS Code
+
 ubicarnos en la carpeta cd "Clase 01" y ejecutar node nombrearchivo.js
 para ejecutar el archivo de JS debe estar instalado el node
 
