@@ -18,3 +18,7 @@ View - Toogle Panel para ejecutar el JS
 usar camelCase
 
 escribir en code: html:5  y automaricamente escribe la estructura html
+
+if ( typeof(valor) === "string" )
+correo usando expresiones regular: var correoValido = correo.match()
+if !correo new throw Error('correo no valido')
