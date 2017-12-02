@@ -3,6 +3,8 @@ git scm
 
 github.com/Area51TrainingCenter/FullStackDeveloper_Group02
 
+sergiohidalgocaceres@gmail.com
+
 no es necesario utilizar el punto y coma
 
 Consideraciones para subir a GitHub:
